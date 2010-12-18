@@ -47,7 +47,7 @@ class LodeRunnerCanvas extends GameCanvas {
         super(midlet);
         // Load resources
         try {
-            splashScreen = new GameSprite("/LodeRunner.png", 112, 16, 0, 0);
+            splashScreen = new GameSprite("/res/LodeRunner.png", 112, 16, 0, 0);
         } catch (Exception e) {
         }
         // Read saved members from store
