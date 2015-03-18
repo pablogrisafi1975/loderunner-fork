@@ -1,3 +1,5 @@
+Ketp here for historical reasons, all this information should be in README.md
+
 Unnecessary fork of Fabien Gigante's Lode Runner (see http://code.google.com/p/loderunner/)
 
 I'm more than willing to delete this project and collaborate with the original, but I wasn't able to contact the author.
